@@ -1,0 +1,28 @@
+{
+	"geode": "4.2.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074"
+	},
+	"id": "noxygalaxy.dont_change_my_bg_color",
+	"name": "Don't change my BG color!",
+	"version": "v1.4.2",
+	"developer": "noxygalaxy",
+	"description": "Doesn't change GJ_gradientBG color",
+	"tags": ["customization", "enhancement", "offline"],
+	"dependencies": {
+	    "geode.node-ids": {
+		"version": ">=v1.15.0",
+		"importance": "required"
+	    }
+	},
+	"links": {
+		"source": "https://github.com/noxygalaxy/dontchangemybgcolor",
+		"homepage": "https://noxy.netlify.app",
+		"community": "https://discord.gg/yvvJW2z9zB"
+	},
+	"issues": {
+		"info": "Send your feature requests or bug reports here.",
+		"url": "https://github.com/noxygalaxy/dontchangemybgcolor/issues"
+	}
+}
